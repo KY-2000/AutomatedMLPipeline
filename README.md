@@ -4,7 +4,7 @@ This project is currently a beta version of take home assessment for Technical A
 ## Build an automated machine learning pipeline to predict the risk of loan applications
 Introduction
 
-As a machine learning engineer in MoneyLion, you are responsible to architect and build machine learning pipelines. Machine learning pipelines are
+As a machine learning engineer, you are responsible to architect and build machine learning pipelines. Machine learning pipelines are
 important because they can free up data scientists from maintaining existing models manually. Automated pipelines are also useful for enforcing machine
 learning governance as all newly created models are forced to adhere to required standards and best practices.
 
