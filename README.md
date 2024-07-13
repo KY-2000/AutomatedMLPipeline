@@ -2,13 +2,13 @@
 This project is currently a beta version of take home assessment for Technical Assessment. It is an idea reference only, please don't copy all the code.
 
 ## Build an automated machine learning pipeline to predict the risk of loan applications
-Introduction
+### Introduction
 
 As a machine learning engineer, you are responsible to architect and build machine learning pipelines. Machine learning pipelines are
 important because they can free up data scientists from maintaining existing models manually. Automated pipelines are also useful for enforcing machine
 learning governance as all newly created models are forced to adhere to required standards and best practices.
 
-Assignment
+### Assignment
 
 We have a LightGBM machine learning model in production that predicts the risk of loan applications. Our machine learning model has been
 in production for the last 3 months and our monitoring systems have alerted us on possible feature drifts. Data scientists have been manually writing scripts
@@ -19,5 +19,5 @@ For this assignment, we want you to build this machine learning pipeline. This c
 An input data file (loan.csv) has been provided to help you kickstart building this machine learning pipeline. This pipeline should be able to run
 independently when the assessment is submitted and should only require the same input file to run from end to end.
 
-##Dataset
+### Dataset
 You may download the dataset at here: https://drive.google.com/file/d/1hj8Uv2thNbtkVwfpcl9eL7f0Er1PWXNI/view?usp=drive_link
