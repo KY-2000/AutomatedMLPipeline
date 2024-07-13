@@ -1,5 +1,5 @@
 # AutomatedMLPipeline
-This project is currently a beta version of take home assessment for Technical Assessment.
+This project is currently a beta version of take home assessment for Technical Assessment. It is an idea reference only, please don't copy all the code.
 
 ## Build an automated machine learning pipeline to predict the risk of loan applications
 Introduction
