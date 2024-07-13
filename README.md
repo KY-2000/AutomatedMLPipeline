@@ -18,3 +18,6 @@ monthly, we want to build an automated machine learning pipeline so that this lo
 For this assignment, we want you to build this machine learning pipeline. This challenge is intentionally meant to be open-ended.
 An input data file (loan.csv) has been provided to help you kickstart building this machine learning pipeline. This pipeline should be able to run
 independently when the assessment is submitted and should only require the same input file to run from end to end.
+
+##Dataset
+You may download the dataset at here: https://drive.google.com/file/d/1hj8Uv2thNbtkVwfpcl9eL7f0Er1PWXNI/view?usp=drive_link
